@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'prime'
 
 def first_palindromic_prime_numbers (number)

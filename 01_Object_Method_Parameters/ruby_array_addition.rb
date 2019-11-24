@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 def end_arr_add(arr, element)
   # Add `element` to the end of the Array variable `arr` and return `arr`
   arr.push(element)

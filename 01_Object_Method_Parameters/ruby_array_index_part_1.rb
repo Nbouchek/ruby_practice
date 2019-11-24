@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 def element_at(arr, index)
   # return the element of the Array variable `arr` at the position `index`
   # arr.at(index) # or

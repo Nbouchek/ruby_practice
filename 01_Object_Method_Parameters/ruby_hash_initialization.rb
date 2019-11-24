@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 # Initialize an empty Hash with the variable name empty_hash
 empty_hash = Hash.new
 

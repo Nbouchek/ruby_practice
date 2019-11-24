@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 def end_arr_delete(arr)
   # delete the element from the end of the array and return the deleted element
   arr.pop

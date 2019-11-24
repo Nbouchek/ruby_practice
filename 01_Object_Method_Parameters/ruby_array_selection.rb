@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 def select_arr(arr)
   # select and return all odd numbers from the Array variable `arr`
   arr.select {|el| el % 2 === 1}
